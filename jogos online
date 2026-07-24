@@ -1,0 +1,254 @@
+# 🎮 Jogos Online
+
+Projeto desenvolvido para disponibilizar uma coleção de jogos online em uma interface simples e responsiva.
+
+## 📋 Sobre o projeto
+
+Este projeto reúne jogos em um único lugar, permitindo que os usuários naveguem, pesquisem e joguem diretamente pelo navegador.
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js (opcional)
+
+## ✨ Funcionalidades
+
+- 🎮 Lista de jogos
+- 🔍 Pesquisa de jogos
+- ❤️ Favoritos (opcional)
+- 📱 Interface responsiva
+- 🌙 Modo escuro (opcional)
+
+## 📂 Estrutura do projeto
+
+```
+📦 jogos-online
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── assets/
+│   └── App.jsx
+├── package.json
+└── README.md
+```
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+```
+
+2. Acesse a pasta:
+
+```bash
+cd SEU-REPOSITORIO
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Execute o projeto:
+
+```bash
+npm run dev
+```
+
+ou
+
+```bash
+npm start
+```
+
+## 📸 Demonstração
+
+Adicione aqui imagens ou GIFs da aplicação.
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas. Faça um fork do projeto e envie um Pull Request.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+## 👨‍💻 Autor
+
+José Armendes Moura Filho
+
+
+# ⚛️ React JS Training Lab
+
+Projeto desenvolvido em **React** com o objetivo de praticar conceitos fundamentais da biblioteca, como componentes, estados, propriedades, roteamento e consumo de APIs.
+
+## 📖 Sobre
+
+Este projeto foi criado para fins de estudo e treinamento em React, aplicando boas práticas de desenvolvimento Front-end.
+
+## 🚀 Tecnologias
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Git e GitHub
+
+## ✨ Funcionalidades
+
+- Interface responsiva
+- Componentes reutilizáveis
+- Navegação entre páginas
+- Gerenciamento de estado
+- Consumo de API (quando aplicável)
+
+## 📂 Estrutura do Projeto
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── services/
+├── styles/
+├── App.jsx
+├── main.jsx
+```
+
+## 💻 Como executar
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+```
+
+### Entre na pasta
+
+```bash
+cd SEU-REPOSITORIO
+```
+
+### Instale as dependências
+
+```bash
+npm install
+```
+
+### Execute o projeto
+
+```bash
+npm run dev
+```
+
+O projeto ficará disponível em:
+
+```
+http://localhost:5173
+```
+
+## 📸 Preview
+
+Adicione aqui uma captura de tela da aplicação.
+
+## 📚 Objetivos de aprendizado
+
+- Componentes React
+- Props
+- State
+- Hooks
+- Renderização condicional
+- Listas e Keys
+- React Router
+- Consumo de APIs
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas. Faça um Fork do projeto, crie uma branch para sua feature e envie um Pull Request.
+
+## 📄 Licença
+
+Este projeto é destinado para estudos e aprendizado.
+
+## 👨‍💻 Autor
+
+**José Armendes Moura Filho**
+
+GitHub: https://github.com/josearmendesmoura-creator
+
+
+# 📘 Projeto JavaScript
+
+Este é um projeto desenvolvido com **JavaScript**, utilizando HTML e CSS para criar uma aplicação web interativa.
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## ✨ Funcionalidades
+
+- Interface responsiva
+- Manipulação do DOM
+- Eventos do usuário
+- Validação de formulários (se aplicável)
+- Consumo de API (se aplicável)
+
+## 📁 Estrutura do Projeto
+
+```
+projeto/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+└── README.md
+```
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+```
+
+2. Entre na pasta:
+
+```bash
+cd SEU-REPOSITORIO
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+Se estiver utilizando um servidor local (como Live Server no VS Code), inicie-o e acesse o endereço informado.
+
+## 📚 Objetivos
+
+- Praticar JavaScript moderno (ES6+)
+- Manipular elementos HTML e CSS
+- Criar interfaces interativas
+- Aprender boas práticas de desenvolvimento web
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Faça um fork do projeto, crie uma branch para sua alteração e envie um Pull Request.
+
+## 📄 Licença
+
+Este projeto é destinado para fins de estudo.
+
+## 👨‍💻 Autor
+
+**José Armendes Moura Filho**
+
+GitHub: https://github.com/josearmendesmoura-creator
