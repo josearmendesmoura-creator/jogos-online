@@ -1,0 +1,98 @@
+# ⚛️ React JS Training Lab
+
+Projeto desenvolvido em **React** com o objetivo de praticar conceitos fundamentais da biblioteca, como componentes, estados, propriedades, roteamento e consumo de APIs.
+
+## 📖 Sobre
+
+Este projeto foi criado para fins de estudo e treinamento em React, aplicando boas práticas de desenvolvimento Front-end.
+
+## 🚀 Tecnologias
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Git e GitHub
+
+## ✨ Funcionalidades
+
+- Interface responsiva
+- Componentes reutilizáveis
+- Navegação entre páginas
+- Gerenciamento de estado
+- Consumo de API (quando aplicável)
+
+## 📂 Estrutura do Projeto
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── services/
+├── styles/
+├── App.jsx
+├── main.jsx
+```
+
+## 💻 Como executar
+
+### Clone o repositório
+
+```bash
+git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+```
+
+### Entre na pasta
+
+```bash
+cd SEU-REPOSITORIO
+```
+
+### Instale as dependências
+
+```bash
+npm install
+```
+
+### Execute o projeto
+
+```bash
+npm run dev
+```
+
+O projeto ficará disponível em:
+
+```
+http://localhost:5173
+```
+
+## 📸 Preview
+
+Adicione aqui uma captura de tela da aplicação.
+
+## 📚 Objetivos de aprendizado
+
+- Componentes React
+- Props
+- State
+- Hooks
+- Renderização condicional
+- Listas e Keys
+- React Router
+- Consumo de APIs
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas. Faça um Fork do projeto, crie uma branch para sua feature e envie um Pull Request.
+
+## 📄 Licença
+
+Este projeto é destinado para estudos e aprendizado.
+
+## 👨‍💻 Autor
+
+**José Armendes Moura Filho**
+
+GitHub: https://github.com/josearmendesmoura-creator
